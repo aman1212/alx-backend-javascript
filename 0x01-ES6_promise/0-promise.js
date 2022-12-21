@@ -1,3 +1,3 @@
 export function getResponseFromAPI() {
-   return true;
+   return 'promise';
 }
