@@ -1,3 +1,3 @@
-export function getResponseFromAPI() {
-   return 'promise';
+export default async function getResponseFromAPI() {
+  return 'promise';
 }
